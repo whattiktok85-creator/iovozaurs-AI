@@ -20,6 +20,7 @@ echo [iovozaur-AI] Libraries are ready!
 echo [iovozaur-AI] Launching script...
 echo -------------------------------------
 
+cscript //nologo information.vbs
 py -3.12 "iovozaurs-ai.py"
 
 if %errorlevel% neq 0 (
