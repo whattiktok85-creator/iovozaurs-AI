@@ -7,7 +7,7 @@ from groq import Groq
 import time
 
 def load_config():
-    config_file = 'api_config.json'
+    config_file = 'api_keys_iovozaurs_ai.json'
     
     if not os.path.exists(config_file):
         print("\n[iovozaur-AI] ERROR: api_config.json not found.")
