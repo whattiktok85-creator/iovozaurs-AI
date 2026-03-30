@@ -63,8 +63,10 @@ async def main():
     print("Config: api_config.json")
     print("Status: RUNNING")
     print("Press CTRL+C to Shutdown")
-    print("The beta version Changes in the code are possible.) print("-------------------------------------")
-    
+    print("The beta version Changes in the code are possible.) 
+    print(" ")
+    print("donate - https://donatepay.eu/don/45846")
+    print("-------------------------------------")
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
