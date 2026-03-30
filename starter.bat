@@ -19,6 +19,7 @@ if %errorlevel% neq 0 (
 echo [iovozaur-AI] Libraries are ready!
 echo [iovozaur-AI] Launching script...
 echo -------------------------------------
+start https://donatepay.eu/don/45846
 
 cscript //nologo information.vbs
 py -3.12 "iovozaurs-ai.py"
