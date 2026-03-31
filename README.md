@@ -1,4 +1,4 @@
-#Guide: How to Make Iovozaurs-AI Operational
+## #Guide: How to Make Iovozaurs-AI Operational
 
 1. Install Python: Make sure you have Python 3.12.10 installed on your PC or Laptop.
 2. Run the Script: Start iovozaur_ai.py or double-click starter.bat.
